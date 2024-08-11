@@ -8,5 +8,5 @@ göre konumdan yola çıkarak en kısa rotayı oluşturma hedeflenmiştir.
 
 Yaptığım projenin kodları aşağıdaki linkte bulunmaktadır.
 
-<-https://github.com/yusufKutluay/HaydiGezek->
+<-https://github.com/yusufKutluay/HaydiGezek ->
 
